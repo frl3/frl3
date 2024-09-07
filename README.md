@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... python
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... python
-- 📫 How to reach me ... frl3_1958@yahoo.com
+- 📫 How to reach me ... frl3_1958@live.com
 
 <!---
 frl3/frl3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
